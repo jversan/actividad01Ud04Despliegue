@@ -1,1 +1,8 @@
+# Ignorando los archivos con extensión .class
 *.class
+
+# Ignorando todos los archivos que contengan la palabra password
+*password*
+
+# Ignorando todo lo que está dentro de la carpeta PHP
+PHP/*
